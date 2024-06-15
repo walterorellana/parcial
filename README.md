@@ -236,4 +236,5 @@ There is only one limitation you can't re-distribute the CoreUI as stock. You ca
  #   p a r c i a l  
  #   p a r c i a l  
  #   p a r c i a l  
+ #   p a r c i a l  
  
