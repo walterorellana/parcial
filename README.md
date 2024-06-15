@@ -232,4 +232,5 @@ Code released under [the MIT license](https://github.com/coreui/coreui-free-reac
 There is only one limitation you can't re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In the past, we faced some problems with persons who tried to sell CoreUI based templates.
 #   p a r c i a l _ f i n a l -  
  #   p a r c i a l  
+ #   p a r c i a l _ f i n a l -  
  
